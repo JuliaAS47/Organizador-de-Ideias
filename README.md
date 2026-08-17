@@ -1,6 +1,6 @@
 *Organizador de Ideias*
 
--Uma forma de não perder suas ideias mais interessantes!
+- Uma forma de não perder suas ideias mais interessantes!
 
 
 *Próximas atualizações:*
