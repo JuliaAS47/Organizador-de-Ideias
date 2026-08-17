@@ -3,6 +3,8 @@
 - Uma forma de não perder suas ideias mais interessantes!
 
 
+
+
 Próximas atualizações:
 - Adicionar um loop até que a escolha do usuário seja "sair";
 - Evitar que ideias repetidas sejam adicionadas;
