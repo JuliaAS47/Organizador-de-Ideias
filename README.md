@@ -1,6 +1,7 @@
 **Organizador de Ideias**
 
 Uma forma de não perder suas ideias mais interessantes!
+- Foram utilizados Python, listas, dicionários e um arquivo externo .json.
 
 
 Próximas atualizações:
